@@ -1,7 +1,0 @@
-genius_client_id = 'veAmGbjRL2ZIvnQaHH70rOsVeGB1H_nZ0r9hogSjJt56j8B0g6MUPDMQQZElTUdg'
-genius_client_secret = 'UF_g6pjicR8psWJEGREDSxStP5lfj_-ty4GuGzTTE3is3E9gRzJmfM5Bs45YFv5mCSFKuLG05hknmPZoORBL9w'
-app_url = 'https://lyric-nlp.herokuapp.com'
-genius_access_token = 'RilNaQNAB5qUm5XHM43BMoyWpSXHRZsUhtUq8bgTARWe9rsGKTaF_Bz9kAUcdziD'
-
-spotify_client_id = 'a1e34145a8744837b70dca2f8ea04f9d'
-spotify_client_secret = '0110bf9ca41e48378b43304079448e4e'
